@@ -1,0 +1,96 @@
+
+.apex {background-color: green;
+   position: relative;
+   display: block;
+   
+
+}
+.apex .capacitybay{
+    color: rgb(8, 94, 5);
+    display: inline-block;
+    background-color: white;
+    margin: 2px;
+    padding:20px;
+ right: 30px;
+    
+}
+ 
+
+
+
+.apex .menu{
+    position: absolute;
+    display: inline-block;
+}
+.menu ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+  font-size: 20px;
+
+}
+
+.menu li {
+  float: left;
+}
+
+.menu li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.center{
+   background-image: url(./Screenshot\ \(23\).png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 504px;
+    padding: 60px;
+    text-align: center;
+
+   
+}
+.center h1{
+    color: white;
+    font-size: 60px;
+   
+
+}
+p{
+    color: rgb(2, 41, 21);
+    font-size: 32px;
+   
+}
+
+.bottom{
+    margin:0px;
+    background-color: rgb(51, 50, 50);
+    background-size: auto;
+    width: auto;
+    height: auto;
+    text-align: center;
+color: white;
+padding: 40px;
+font-size: 30px;
+}
+.bottom p{
+    color: white;
+    opacity: .7;
+}
+.contact ul{
+    color: white;
+    text-align: center;
+}
+
+.contact li{
+    display: inline-block;
+    padding: 10px;
+}
+.bottom hr{
+    border:4px solid green;
+  
+    
+}
